@@ -2,13 +2,18 @@ body
 {
     padding: 0;
     margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
+    
     color: white;
+}
+
+span
+{
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .fullSection
 {
-    width: 60%;
+    width: 50%;
     height: 100%;
     margin-left: auto;
     margin-right: auto;
@@ -26,6 +31,11 @@ h1
 {
     text-align: center;
     font-style: italic;
+}
+
+span h2
+{
+    font-weight: bold;
 }
 
 header ul
@@ -69,3 +79,4 @@ hr
 {
     display: block;
 }
+
